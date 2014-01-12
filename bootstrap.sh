@@ -1,6 +1,7 @@
 #!/bin/bash
 
-ln -s ${PWD}/bash_profile ~/.bash_profile
+#ln -s ${PWD}/bash_profile ~/.bash_profile
+ln -s ${PWD}/zshrc ~/.zshrc
 ln -s ${PWD}/vimrc ~/.vimrc
 
 echo i
