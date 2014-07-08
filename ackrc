@@ -1,0 +1,2 @@
+#This tells less to allow colors when it’s called
+--pager=LESS=FSRX less -r
